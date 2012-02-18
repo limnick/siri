@@ -1,0 +1,8 @@
+== CATTEPROJECT ==
+
+Some shit. based off of skybot <http://github.com/rmmh/skybot>
+
+How to install:
+
+pip install -r requirements.txt
+python bot.py

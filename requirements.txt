@@ -1,0 +1,9 @@
+lxml
+mechanize
+python-amazon-product-api
+simplejson
+PIL
+BeautifulSoup
+pycurl
+pylast
+tweepy

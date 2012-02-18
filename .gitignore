@@ -1,0 +1,16 @@
+.*.swp
+*.pyc
+*.orig
+persist
+config
+pep8.py
+.project
+.pydevproject
+poop.txt
+test.txt
+plugins/books.py
+plugins/flix.py
+plugins/imgur.py
+plugins/thesite.py
+plugins/twitter.py
+plugins/yospos.py
