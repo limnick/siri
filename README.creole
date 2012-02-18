@@ -1,4 +1,4 @@
-== CATTEPROJECT ==
+== SIRI ==
 
 Some shit. based off of skybot <http://github.com/rmmh/skybot>
 
