@@ -19,6 +19,9 @@ if not os.path.exists('config'):
               "channels": ["#test"]
             }
           },
+          "redis_enabled": True,
+          "redis_address": "localhost",
+          "redis_port": 6379,
           "disabled_plugins": [],
           "disabled_commands": [],
           "acls": {},

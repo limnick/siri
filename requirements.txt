@@ -7,3 +7,4 @@ BeautifulSoup
 pycurl
 pylast
 tweepy
+redis
