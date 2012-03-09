@@ -1,4 +1,5 @@
 lxml
+juggernaut
 mechanize
 python-amazon-product-api
 simplejson
